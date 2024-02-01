@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-31 - DB University.md",
+                "file": "2024-02-01 - DB University - 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fc7c6ba393e6e703",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-31 - DB University.md",
+                "file": "2024-02-01 - DB University - 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-31 - DB University.md",
+                "file": "2024-02-01 - DB University - 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-31 - DB University.md"
+                "file": "2024-02-01 - DB University - 3.md"
               }
             }
           }
@@ -149,8 +150,9 @@
   },
   "active": "e7d3c1e72cbeac20",
   "lastOpenFiles": [
+    "2024-01-31 - DB University.md",
+    "2024-02-01 - DB University - 3.md",
     "db-university.png",
-    "classe.md",
-    "2024-01-31 - DB University.md"
+    "classe.md"
   ]
 }
